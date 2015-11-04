@@ -1,6 +1,6 @@
-Name                        : Akshay Kumar 
-Full name                   : Akshay Kumar Magapu
-Social Security Number      : 940829-4495
+Name                        : Akshay Kumar  <br />
+Full name                   : Akshay Kumar Magapu <br />
+Social Security Number      : 940829-4495 <br />
 
 
 

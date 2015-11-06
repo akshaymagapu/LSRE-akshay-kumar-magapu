@@ -16,7 +16,11 @@
 
 1. B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2008, vol. 5025 LNCS, pp. 123–128.
 
-## Summary
+2. G. Sabaliauskaite, A. Loconsole, E. Engström, M. Unterkalmsteiner, B. Regnell, P. Runeson, T. Gorschek, and R. Feldt, “Challenges in aligning requirements engineering and verification in a large-scale industrial context,” Lect. Notes Comput. Sci., vol. 6182 LNCS, pp. 128–142, 2010.
+
+3. S. Konrad and M. Gall, “Requirements Engineering in the Development of Large-Scale Systems,” 2008 16th IEEE Int. Requir. Eng. Conf., pp. 217–222, 2008.
+
+ ## Summary
 
 1. Complexity increases while handling the requirements in very-large scale requirements engineering. The authors identified the key research oppurtunities in this domain. 
    Based on the size of requirements there are four orders of magnitude:In small-scale requirements engineering the order of magnitude is approximately 10 requirements, In medium-scale requirements engineering the order of magnitude is approximately 100 requirements,
@@ -32,5 +36,23 @@
     emergent quality prediction: fighting over-scoping.
    How to deal with dependeices among quality requirements and how to predict the effort for large scope of system.
    By knowing these questions managing the complexity of the requirements and predicting system quality aspects can be done.
+   
+2. the main goal of the paper is to find the challenges while aligning the requirement engineering and verification process as coordination between the requirement and verification process is significant to assure the customer satisfaction. So to know the challenges authors conducted a interview based research in large software development company.
+   Also based on pre-understanding to the authors, designed a conceptual model which consists of three dimensions and used as a guide while conducting interviews.
+    i. Abstractlevel dimension: It consists of test artificats which can be used to verify code and aslo requirements.
+    ii. Time dimension: Changes in process, product and project as per time.
+    iii. Dimension of product lines: It adress the variability while developing product in product line engineering approach.
+    Based on interviews, the identified challenges faced by the company are:
+    Organization and process issues in which communication problems, documentation standard problems, who is responsible for the decision problem and also many organiation units involve so lot of confusion arises.
+    People issues in which there is lack of understanding each individual work in company, lack of communication and cooperation.
+    Tools issues in which lack of adequate softeare tools to categorize requirements which is most important challenge.
+    Requirement process issues in which there is lack of update in requirements as soon as change occurs, defining and managing of quality requirements.
+    Testing issues in which lack of well defined testing process, cooperation between testers and analysts.
+    Change management issues in which there is lack of update in requirements, tracking and reporting of changes.
+    Traceability issues in which there are large volume and complex requirements,test cases.
+    Measurement issues in which there is difficulty to define the metrics to measure the coverage of requirements.
+    So these finding helps practitioners to investigate alignment in their organization and researchers to make effective  management of alignment between requirements and verification process.
+ 
+    
 	
 ## Answers

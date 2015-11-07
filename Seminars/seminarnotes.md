@@ -115,10 +115,52 @@ Management of customer expectation: As system is large, early increments are sho
      Agile methodology also takes this art approach to involve humanistic characteristic but it does not provide how to select features when multiple stakeholder exist. the optimization model authors presented here is by having flexibility in number of releases in which a decision variables consists of set of features and goal is to assign these set of features to some release options.
      Coupling relation exist between features in which two features need to be released combined and a precedence relation in which a sequence of releases to be done.
      Each release plan should satisy the resources available. Stakeholders are priortized by using a ordinal scale(1-9). Features are also priortized by using ordinal scale(1-9) and urgency of feature whther to release first or later release.
-     Finally, an objective function is assumed in which average of stakeholders, feature priortization is done to maximize function in every release plan and satisfy resource constraint which comes undermodelling phase.
+     Finally, an objective function is assumed in which average of stakeholders, feature priortization is done to maximize function in every release plan and satisfy resource constraint which comes under modelling phase.
      so based on these, a set of good alternatives can be achieved by solving the linear programming problem in which a good solution is considered only if it is 95% of object function value which is exploration phase.
-     So a human expert evaluates the alternatives and selects a best one which is a consolidation phase.
+     A human expert evaluates the alternatives and selects a best one which is a consolidation phase.
      As by integrating these two approaches, best features like formalization of problem, sophisticated method, human intuition, and evaluation of alternative solution leads to improvement in release planning process.
+     
+     
+   iii. Berntsson Svensson & Olsson “Introducing support for release planning of quality requirements –an industrial evaluation of the QUPER model”  
+   
+    ## Summary
+    
+    Requirements are priortized by using cost and value dimensions. In this paper, the authors added another dimension Quality and developed a quality performance model (QUPER). Also implemented and reevaluted this model in large-scale industry which is sony ericsson and mainly focused how QUPER model can be used in a company.
+    QUPER was developed in three steps:
+    i. Understanding different requirement decision scenarios which comes under problem definition.
+    ii. By including three view models comes under model definition.
+    iii. Evaluating the model with experts comes under model validation.
+    Goals for QUPER are: robust to uncertainity, easy to use, domain relevant.
+    In model definition there are three views which are benefit view, cost view, roadmap view.
+    Benefit view consists of three breakpoints:
+    Utility breakpoint in which there is a border between quality level useless and useful quality.
+    Differentiation breakpoint in which it represents the shift from useful to competetive quality.
+    Saturation breakpoint in which change in quality level from competetive to excessive quality.
+    Cost view represents non-linear relation between cost and quality.
+    Roadmap view visualizes the quality of our produc with quality of competetive product by combining benefit and cost view.
+    This QUPER model is used to improve the release planning process. So to evaluate the QUPER model the authors interviewed the experts from sony ericsson and also taken feedback from workshops.
+    The evaluation is considered after three months of introducing the model in the company. The result indicated that the model is useful in release planning to priortize the requirements based on quality dimension. The result shows that it is easy to use and improve the communication level among staff.
+
+     
+     
+   iv. Regnell et al. “A market-driven requirements engineering process:results from an industrial process improvement programme” 
+   
+    ## Summary
+    
+    Requiremnt engineering process is different for packaged software and bespoke software. In this paper, the authors described a RE process called REPEAT. It is used at Telelogic company for requirement engineering process.
+    REPEAT consists of elicitation, validation activities and also selection of requirements and release planning is done. Many actors involve in this process from requirement issues team to testers.
+    It is a repeat process in which a requirement can be changed and added at any time. This process consists of five different phases:
+    I. Elicitation phase: In this phase, requirements are collected and classified. Issuer enters the requirements in a web form and submits to RQ database in which the issuer gives priority to the requirements. Human expert revises the requirements and estimates the cost and impact of the requirement.
+    Then requirement enters into classified state.
+    II. Selection phase: In this phase, a requiremnts document is prepared which consists of selected list, specification of each requirement and not selected list. then this document is validated.
+    III. Change management, construction, verification and conclusion: After the selection phase, the REPEAT process enters to change management and a new REPEAT process is initiated.
+    Theen construction phase starts in a iterative manner and verification is done based on requirement document. Then it reaches to conclusion phase in which a review is done and any lessons learned are repeated.
+    The REPEAT process improvized the release precision in Telelogic company as it consists of effort estimation, priortization of user requirements, detailed requirement specification, and change management through every phase.
+    However challenegs are faced in this process such as connecting fragments and overload control.
+    So to overcome these challenges REPEAT-2 is introduced in which it consists of two techniques: Hierachial use-case modelling and Cost value use case priortization.
+    
+    
+
      
 
     

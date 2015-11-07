@@ -71,7 +71,7 @@ Management of customer expectation: As system is large, early increments are sho
 
 2. The challenges faced in large-scale requirements engineering are [2] [3]:
 
-   People issues:
+    People issues:
    
     i. More number of requirements from customer.
     
@@ -100,6 +100,7 @@ Management of customer expectation: As system is large, early increments are sho
     ii.technology changes need to be considered.
     
     iii. Scope change is also a challenge.
+    
     
 3. The order of magnitude of the number of requirements in large-scale requirements engineering are more than 1000 requirements, where as in very large-scale requirements engineering it exceeds 10,000 requirements [1].
     

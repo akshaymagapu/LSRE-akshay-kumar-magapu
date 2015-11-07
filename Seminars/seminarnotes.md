@@ -70,20 +70,35 @@ Management of customer expectation: As system is large, early increments are sho
 1. The number of requirements and interdependencies exceeds 1000 and managing a interdependencies set is impractical, but suitable by forming requirements into a small bundle[1] in large-scale requirements engineering. Selecting, managing, assigning, controlling, changing the requirements in large scale industry relates to large-scale requirements engineering.
 
 2. The challenges faced in large-scale requirements engineering are [2] [3]:
+
    People issues:
+   
     i. More number of requirements from customer.
+    
     ii. Understanding of each other's work in a company.
+    
     iii. Communication and cooperation between organization units.
+    
     iv. Global distribution teams is also a challenge.
+    
     Traceability issues:
+    
     i. Complex requirements in a large volume.
+    
     ii. More number of test cases as per requirements.
+    
     Tools issues:
+    
     i. There are less user-friendly tools.
+    
     ii. lack of adequate tools.
+    
     Change management issues:
+    
     i. Whenever a requirements are changed or new requirements are added these needs to be updated.
+    
     ii.technology changes need to be considered.
+    
     iii. Scope change is also a challenge.
     
 3. The order of magnitude of the number of requirements in large-scale requirements engineering are more than 1000 requirements, where as in very large-scale requirements engineering it exceeds 10,000 requirements [1].

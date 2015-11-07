@@ -67,7 +67,7 @@ Management of customer expectation: As system is large, early increments are sho
 	
 ## Answers
 
-1. The number of requirements and interdependencies exceeds 1000 and managing a complete set of interdepedencies is practically unfeasible, but feasible among small bundle of requirements [1] in large-scale requirements engineering. Selecting, managing, assigning, controlling, changing the requirements in large scale industry relates to large-scale requirements engineering.
+1. The number of requirements and interdependencies exceeds 1000 and managing a interdependencies set is impractical, but suitable by forming requirements into a small bundle[1] in large-scale requirements engineering. Selecting, managing, assigning, controlling, changing the requirements in large scale industry relates to large-scale requirements engineering.
 
 2. The challenges faced in large-scale requirements engineering are [2] [3]:
    People issues:

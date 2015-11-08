@@ -143,9 +143,9 @@
    So QUPER model is easy to apply with given guidelines but the cost dependency is not suitable for different domains apart from the evaluated domain. So future work includes evaluating the QUPER model in different domains.
 
    
-      iii. Berntsson Svensson & Olsson “Introducing support for release planning of quality requirements –an industrial evaluation of the QUPER model”  
+ iii. Berntsson Svensson & Olsson “Introducing support for release planning of quality requirements –an industrial evaluation of the QUPER model”  
    
-      Summary
+  Summary
     
   Requirements are prioritized by using cost and value dimensions. In this paper, the authors added another dimension Quality and developed a quality performance model (QUPER). Also implemented and revaluated this model in large-scale industry which is Sony ericsson and mainly focused how QUPER model can be used in a company.
   QUPER was developed in three steps:

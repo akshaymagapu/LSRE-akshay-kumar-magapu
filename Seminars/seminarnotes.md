@@ -1,4 +1,4 @@
-# Seminar 1
+# Seminar 0
 
 ## Questions:
 
@@ -198,7 +198,7 @@
   However, challenges are faced in this process such as connecting fragments and overload control.
   So to overcome these challenges REPEAT-2 is introduced in which it consists of two techniques: Hierarchical use-case modelling which is used to connect requirement fragments and Cost value use case prioritization which is used to sort requirements in efficient way and avoid congestion.
     
-# Seminar 2
+# Seminar 1
 
 ## Questions
 
@@ -246,6 +246,25 @@ iv. J. Karlsson, K. Ryan, “A cost-value approach for prioritizing requirements
 
 Software application development goal is to meet the needs of the stakeholders and developing all requirements from customer is not possible so a subset of requirements need to be selected which meets the needs of customer. In this paper, an analytical tool is developed for prioritizing the requirements using a cost value approach. It is successfully applied in two companies. Process for prioritizing should be simple to use and should be accurate, trustworthy. Also should satisfy the stakeholder satisfaction. This analytical tool considers three factors: quality, time and cost.  The authors investigated the candidate requirements by comparing them with relative cost and time.  The cost-value approach consists of five steps to prioritize the requirements. They are the candidate requirements are carefully observed by requirement engineering to decrease the redundant requirements. Customers and users apply this method to know the value of their requirements through comparison. Experienced software engineers use this method to estimate cost required by a requirement. A software engineer estimate value and cost and plot a relation between cost and value for a requirement. The stakeholder discusses the requirements through using the plot given by software engineers. So finally the discussion result leads to the selection of requirements for development and also for the release planning process. As this method is easy to perform the practitioners really felt useful. But this method is useful for small scale requirements and also consists of many issues to be solved to use in present industries.
 My view: this paper discusses the way to prioritize the requirements by analysing them through cost and value. But I do not think it will be helpful in present situation as the scale of requirement using this method is very low and it did not considered interdependencies between the requirements. As present requirements for industries vary from medium scale to large scale requirements such as requirements exceeds 1000 so it will not be helpful.
+
+## Seminar 3
+
+# Summary
+
+i. Wnuk et al. “What Happened to Our Features? Visualization and Understanding of Scope Change Dynamics in a Large-Scale Industrial Setting”
+
+There is a dynamic change in scope of a product as decisions changed because of circumstance changes. In this paper, the authors presented a technique called feature survival charts which shows the features and their respective scope changes by using various colors to identify easily. This technique is evaluated by implementing it in three projects. The practioners that participated for implementing are mainly process manager, requirements manager and key performance indicator manager. The project are selected based on length, number of features and possibility to analyze the scope change in the projects. The selected company used milestones and tollgates to monitor project progress by selected experts who are requirements and design  teams. These three project differs in their size and complexity as many of projects are in different phases while conducting research. The results showed that for all three projects the scope is not increased as time changes, instead  the scope decreased for the features. To track the scope the time related and feature related measurements are used in which there are sub categories. In time related the number of postive scope and negative scope changes per given time is measured. While in feature related feature removal time,number of changes of a feature, time for new feature to evolve, why a scope is changed are measured. The measurements obtained from time and feature related are analyzed by comparing the values with theory and knowledge for this is gained by interacting with requirement managers who are working on projects. After analyzing the results for three projects, comparision is done by using graphical representation of values. The practitioners identified the use of this technique and mentioned it is valuable for them. As it represents the change in scope easily and tracking can be done in it. It is also useful for further refernce in future. As it  also increases the understanding of dynamic changes easily. But it is evaluated in only one company, even though it is large-scale company there needs to be a more analysis in other companies to have a generalized result. The technique can be further improved by having a clarity while zooming and optimizing usability.<br>
+
+My view: The technique developed to easily view the scope changes is useful for companies and i agree with authors to use this technique in companies to easily monitor the chnages of scope for their features as these features consist of requirements. For small-scale it does not show that much difference but in large-scale industries tis technique will be more useful. The implementation of this technique in companies can be done by standarding the process and also making it more usable by increasing the usability.<br>
+
+ii. Wnuk & Gorschek “Obsolete Software Requirements” <br>
+
+Requirements which change during development and not needed at all while the project is going on are said to be obsolete requirements. In this paper, the authors conducted a research study because they found that there is little research is done on obsolete requirements such as scope creep, requirement creep. So the main aim of this research is to know about what is obsolete requirements, how serious it is considered in industries, are there any category of requirements which said to be more obsolete, are there any methods exist, how they categorize these obsolete requirements with requirements which are actually using, and in which phase these need to be handled. <br>
+
+So authors conducted a survey which is industry based and students are not involved as they do not experienced in this and it also conducted in 45 countries. The survey is done to get a generalized view on this topic as there is no particular research is done so qualitative research is not done. The survey results are represented using statistical analysis with chi-square test. The practitoners mainly said that the requirements which are not usefu for present and future release are said to be obsolete requirements and these are considered to be serious by many large scale industries. The requirements which are not clear and which changes frequently have more chances to become obsolete and standards requitements have less chance. There is no particular methods and less number of tools to identify these requirements, the industries mainly use manual identification only. These identified are tagged or labeled as obsolete for future reference mainly. The phases to identify these obsolete requirements are mainly during requirement analysis and validation phases and these are to be updated regularly as there are rapid changes in requirements in market-driven development. <br>
+
+My view: This paper focused on requirements which are not needed and how a company can focus which requirements are useful and which they do not need to be developed by using the past data of projects as these are labeled as obsolete requirements. I agree with authors as they identified new things in which the obsolete requirements need to be identified easily and there have to be a method to do it so companies can easily identify these type of requirements. 
+
 
      
 

@@ -84,5 +84,69 @@ Students can provide their feedback to the course through this feature. <br>
 It provides user to access the timetable of teacher and book an appointment with teacher/lecturer. <br>
 
 
+## Week 50
+
+# Work done :white_check_mark:
+
+##Assigned myself to the following areas:
+* Registration
+    +Register for exams #111
+    +Register option for courses #74
+* Databases
+    +Database for projects #110
+    +Literature databases #94
+    +Access to edit user database #53
+* Schedule and meeting
+    + Teacher timetable and meeting #97
+* Course
+    + Course feedback #96
+    + Course information #21
+    I selected these two, as by receiving the feedback on the course, i can change the course scope.
+* Account activity #79
+* Format
+    + Supportable formats #76
+    + RTF files #72
+* Signup
+    + Signup for participants #75
+    + System users #18
+## Read the following article for prioritizing the requirements.
+Berander, Patrik, and Anneliese Andrews. "Requirements prioritization." Engineering and managing software requirements. Springer Berlin Heidelberg, 2005. 69-94.<br>
+
+To prioritize the requirements we can use following techniques:
+1.AHP (analytical hierarchy process)
+This technique is to compare all possible pairs of requirements and find which requirements have high priority. The disadvantage is for more number of requirements we need to do more number of comparisons.
+2.100 dollar test
+This technique is to distribute the given 100 dollars(for example) to the requirements and prioritize based on distribution. The disadvantage is one can give more amount to selected requirements.
+3.Top ten estimation
+This technique is to pickup ten requirements by each member and prioritize based on that.
+4.Ranking
+This technique is to rank the requirements so that the requirements with rank 1 are most important.
+5.Grouping (critical, standard, optional)
+This technique is to categorize the requirements into critical, standard and optional. So based on these the requirements can be prioritized for release planning.<br>
+
+The grouping technique is good when compared to other in large scale requirements as in grouping we need to classify requirements under critical, standard and optional. So we discuss and group the given issues into following classifications for this release planning assignment.
+
+## Labels
+
+Assigned labels to the issues and i confused for the label clarification where i thought if we link sub-requirements to a requirement it gives more clarification so i added clarification label. But after a question raised by mickesv, i got clarity that the label should reflect the requirement only. So i changed the labels where i added clarification unnecessarily and also i added feature label to the feature requirements and enhancement label to the requirements which enhance the present functionality and bug label to some requirements.<br>
+
+##Dependencies
+For dependencies, we need to see the interdependencies between requirements so that the release plan can consist of a deliverable which will function, whereas if we did not consider the dependency then it may cause that a particular release plan may not consist a functional deliverable. I studied an article regarding this interdependencies, <br>
+Carlshamre, Pär, et al. "An industrial survey of requirements interdependencies in software product release planning." Requirements Engineering, 2001. Proceedings. Fifth IEEE International Symposium on. IEEE, 2001. <br>
+In this there are six types of interdependencies, they are AND, OR, REQUIRES, TEMPORAL, ICOST, CVALUE.
+By this we need to take the top 20 prior requirements we need to find the interdependencies between them using above.
+
+## New issues created are:
+
+1.Register for exams #111
+Students can register for exams based on their course.
+
+2. Database for projects #110
+Students can retrieve the thesis articles and other projects that are carried out by final-year students.
+
+
+
+
+
 
 

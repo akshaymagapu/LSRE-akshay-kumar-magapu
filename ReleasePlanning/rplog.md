@@ -47,6 +47,9 @@ Made duplicates of issues #54, #29, #14 to issue #55 but got clarified that thes
 
 Linked depedencies of issues #65,#17,#36 to issue #9.<br>
 
+Discussed in the group discussion forum about priortization as: I am familiar with planning poker, also we can use use-case points estimation technique as it is based on requirements and formula based approach without an expert opinion.
+Replys came as whether planning poker is suitable for 5000 requirements. <br>
+
 ## Week 49
 
 # Work done :white_check_mark:
@@ -82,6 +85,8 @@ The user should have access to literature database like IEEE from course managem
 Students can provide their feedback to the course through this feature. <br>
 15. Teacher timetable and meeting #97 <br>
 It provides user to access the timetable of teacher and book an appointment with teacher/lecturer. <br>
+
+
 
 
 ## Week 50
@@ -126,7 +131,7 @@ This technique is to rank the requirements so that the requirements with rank 1 
 5.Grouping (critical, standard, optional)
 This technique is to categorize the requirements into critical, standard and optional. So based on these the requirements can be prioritized for release planning.<br>
 
-The grouping technique is good when compared to other in large scale requirements as in grouping we need to classify requirements under critical, standard and optional. So we discuss and group the given issues into following classifications for this release planning assignment.
+The grouping technique is considerable technique when compared to other in large scale requirements. As in AHP the numer of comparisons increase it increases the complexity, while 100 dollar test has less probability while assigning 100 dollars to all requirements, topten requirements are not that much suitable in large scale if we consider 5000 requirements it is not a best method, Ranking may be the option but while giving ranks we need to fix whether we need to consider detail or abstract level requirements, whereas in grouping we need to classify requirements under critical, standard and optional as it is simple to do even in the case of large scale requirements. So i suggest to use grouping technique and we will discuss and group the given issues into following classifications for this release planning assignment.
 
 ## Labels
 

@@ -89,13 +89,14 @@ It provides user to access the timetable of teacher and book an appointment with
 # Work done :white_check_mark:
 
 ##Assigned myself to the following areas:
+
 * Registration
-    +Register for exams #111
-    +Register option for courses #74
+    + Register for exams #111
+    + Register option for courses #74
 * Databases
-    +Database for projects #110
-    +Literature databases #94
-    +Access to edit user database #53
+    + Database for projects #110
+    + Literature databases #94
+    + Access to edit user database #53
 * Schedule and meeting
     + Teacher timetable and meeting #97
 * Course
@@ -109,6 +110,7 @@ It provides user to access the timetable of teacher and book an appointment with
 * Signup
     + Signup for participants #75
     + System users #18
+
 ## Read the following article for prioritizing the requirements.
 Berander, Patrik, and Anneliese Andrews. "Requirements prioritization." Engineering and managing software requirements. Springer Berlin Heidelberg, 2005. 69-94.<br>
 
@@ -138,11 +140,10 @@ By this we need to take the top 20 prior requirements we need to find the interd
 
 ## New issues created are:
 
-1.Register for exams #111
-Students can register for exams based on their course.
-
-2. Database for projects #110
-Students can retrieve the thesis articles and other projects that are carried out by final-year students.
+1.Register for exams #111 <br>
+Students can register for exams based on their course.<br>
+2. Database for projects #110 <br>
+Students can retrieve the thesis articles and other projects that are carried out by final-year students. <br> 
 
 
 

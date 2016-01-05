@@ -1,3 +1,3 @@
 # LSRE-akshay-kumar-magapu
 
-Contains assignmenets of LSRE course.
+Contains assignments of LSRE course.

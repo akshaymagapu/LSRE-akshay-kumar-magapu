@@ -1,3 +1,10 @@
+# Release Planning Assignment
+#### Large Scale Requirements Engineering (PA2521)
+#### Akshay Kumar Magapu
+#### akma15@student.bth.se
+
+### Release Planning assignment is about analysing the requirements and assigning these to a suitable release plans using requirement engineering techniques. This log consists of my activity in this release planning assignment.
+
 ## Week 46
 
 # Work done :white_check_mark:

@@ -3,7 +3,7 @@
 #### Akshay Kumar Magapu
 #### akma15@student.bth.se
 
-### Release Planning assignment is about analysing the requirements and assigning these to a suitable release plans using requirement engineering techniques. This log consists of my activity in this release planning assignment.
+#### Release Planning assignment is about analysing the requirements and assigning these to a suitable release plans using requirement engineering techniques. This log consists of my activity in this release planning assignment.
 
 ## Week 46
 
@@ -11,6 +11,9 @@
 
 Started tracking issues commented on Course Chatroom #69 issue which is "Is this chatroom only for students or between teacher and students?"
 The issue is clarified with both the participants can chat together or can have a private chat.
+
+* Lesson Learnt <br>
+L1: As the requirements does not contain clear enough information to implement, so there is a need of these requirements to be clarified.
 
 ## Week 47
 
@@ -57,6 +60,10 @@ Linked depedencies of issues #65,#17,#36 to issue #9.<br>
 Discussed in the group discussion forum about priortization as: I am familiar with planning poker, also we can use use-case points estimation technique as it is based on requirements and formula based approach without an expert opinion.
 Replys came as whether planning poker is suitable for 5000 requirements. <br>
 
+* Lesson Learnt <br>
+L2: The dependencies should be considered as it helps to know which requirements can be implemented without any other requirements and which need to implemented combined. <br>
+L3: As planning poker is not suitable for that many requirements, other techniques are to be evaluated which can be useful for large scale requirements.
+
 ## Week 49
 
 # Work done :white_check_mark:
@@ -93,7 +100,10 @@ Students can provide their feedback to the course through this feature. <br>
 15. Teacher timetable and meeting #97 <br>
 It provides user to access the timetable of teacher and book an appointment with teacher/lecturer. <br>
 
+* Lesson Learnt: <br>
+Many requirements with dependencies are linked here as some requirements REQUIRES another requirement to function. Also created new feature requirements and new bug solving requirements in this week. As new features can be suggested through market trend and what customer wants which will be unique from other market products. <br>
 
+L4: The requirements can be arrived in market driven development like a bunch of requirements but from these bunch of requirements which are more suitable and market trend are need to be identified and these also need to be valued by customer then only it can be success.
 
 
 ## Week 50

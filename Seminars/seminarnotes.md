@@ -1,3 +1,11 @@
+# MDRE Process Assignment
+#### Large Scale Requirements Engineering (PA2521)
+#### Akshay Kumar Magapu
+#### akma15@student.bth.se
+
+#### This file consists of the articles, questions and their answers which are given for homework.
+
+
 # Seminar 0
 
 ## Questions:

@@ -199,7 +199,7 @@
   My view: This is the initial version paper for QUPER model, as said it includes quality requirements in release planning process which I agree with the authors that there is no certain literature regarding quality requirements in release planning through this model quality requirements importance can be invoked. This model requires further evaluation to get universal recognition so that it may be used in companies while doing release planning process.  <br>
 
  
- #### iv. Regnell et al. “A market-driven requirements engineering process: results from an industrial process improvement programme”  <br>
+#### iv. Regnell et al. “A market-driven requirements engineering process: results from an industrial process improvement programme”  <br>
    
    Summary:
     
@@ -233,9 +233,9 @@
 
 1. GAP Analysis: GAP analysis is a technique mainly used in business to know which further steps to be taken to gain future state from the present state. In this analysis it consists of three factors in which the first one is what is done at present, second is what is to be done and the third is what is the gap need to be filled between above two steps. If there is a positive gap that means the present situation is in favor, and if the gap is negative the situation needs to be analyzed and necessary changes need to be done [1]. <br>
 
-CVA Analysis: CVA analysis is a technique which is about the customer value regarding the product and market competitor’s product, so by this we can know the changes need to be done in our product to meet the satisfaction of the customer. The CVA analysis is of knowing how much value customers are giving to the product, measuring the competitor’s product and our product performance and analyzing the future to survive in the market. So by this, we can predict the product demand in the future. <br>
+   CVA Analysis: CVA analysis is a technique which is about the customer value regarding the product and market competitor’s product, so by this we can know the changes need to be done in our product to meet the satisfaction of the customer. The CVA analysis is of knowing how much value customers are giving to the product, measuring the competitor’s product and our product performance and analyzing the future to survive in the market. So by this, we can predict the product demand in the future. <br>
 
-IVA Analysis- IVA analysis is used to know the product is in line with the product strategies so that necessary improvements can be made. In this analysis the factors like time, money, risk and knowledge are considered [1]. By these analyzes the product and market of the product can be improved.  <br>
+   IVA Analysis- IVA analysis is used to know the product is in line with the product strategies so that necessary improvements can be made. In this analysis the factors like time, money, risk and knowledge are considered [1]. By these analyzes the product and market of the product can be improved.  <br>
 
 2. There are many tools available for continuous integration. Some of them are listed below: <br>
 	i. Jenkins- Jenkins is a continuous integration and continuous delivery tool, It is an automation server and it supports many plugins and different operating systems. Also, the work done in one operating system can be imported to another operating system. <br>
@@ -243,7 +243,7 @@ IVA Analysis- IVA analysis is used to know the product is in line with the produ
 	ii.Buildbot - Buildbot is also an automation tool in which the fundamental design is not fixed so that it supports more complex cases than other tools like Jenkins. <br>
         Link -> http://buildbot.net/                 
         <br>
-	iii. Travis CI- Travis CI is a tool which will help to test the builds created and also have a feature to import from other repositories like GitHub. This tool supports only Linux and Mac OS operating systems.  <br>
+	iii. Travis CI- Travis CI is a tool which will help to test the builds created and also have a feature to import from other repositories like GitHub. <br>
     Link to this tool ->https://travis-ci.org/     <br>
 	iv. Strider- Strider is also a continuous integration tool in which it supports many plugins and can easily customize such as own HTTP routes and modification of interfaces. <br>
     Link to this tool-> https://github.com/Strider-CD/strider     <br> 
@@ -252,6 +252,14 @@ IVA Analysis- IVA analysis is used to know the product is in line with the produ
 	Vi. Integrity -Integrity tool is an automation server in which it only supports GitHub repositories. SO there may be less scope to this tool but the GitHub is a popular one. It tests the builds and notifies the members about the results as it very user-friendly interface all members can easily view the notifications. It has command line Interface and the number of failures and number of tests is visible to the users. As there are many other tools which more rich GUI it may be no that much used by major projects.  <br>
     Link to this tool->http://integrity.github.io/       <br>
 	As these are open source tools. There are many commercial tools which can provide more features.   <br>
+
+   I have tried one of the tool to experience the continuous integration, the tool i selected is Travis CI as it have a option to integrate with GitHub. What i did for this process is i created a repository in GitHub and created a php file which performs an addition operation of 1+1. At begin of the test it is created that 1+1 is 1 so that the tool needs to build this code and say fail in build. So i made a change in one of the file and pushed into Git. Then the travis tool automatically build the new change and it says the build is failed with the information like time taken for build. <br>
+
+   Then i changed the code file with 1+1 equals two and then pushed into Git, then travis tool automatically builds the new change version and it says passed as the given code is correct. <br>
+
+  The file builds can be seen in following link : https://drive.google.com/file/d/0Bz_7Gx1hn6L9T1QtdGpEdjd1VjQ/view?usp=sharing  <br>
+
+   Through this experience, i felt that the continuous integration tools are really helpful as when a change is pushed into a repository it automatically tests the code and building it. If there is any error presents the tool automatically sends an email that the build is failed so that developers can easily develop a quality code as working of code is knowing immediately. This tool working is great as it recognizing the change in repository and building it. It showing here it getting failed so the bugs can be easily rectified. These tools are really handy for large companies to track, as until last stage if failure of integration happens it is a chaos so these type of tools helps to fix that.       <br>
 
 3. Technical product management is managing the product and involving in technical activities by who knows the technical information. So in the case of requirements, the technical understanding of requirements is to be considered. Also, the market requirements are needed to be gathered and analyzed. The technical product manager needs to have interaction with the development and implementation teams and have a technical background to discuss. So that discussion with team members will be easy as the manager knows the technical information. So the manager can analyzed the present product situation with the competitive market and analyze the technical details, maintain the roadmap of product based on the analysis of the market situation, monitoring of development of the product.  <br>
 	
@@ -328,10 +336,10 @@ My view: this paper discusses the way to prioritize the requirements by analyzin
 # Answers
 
 1. Boston Matrix:  Boston matrix is a tool used for product portfolio, management of product and strategic.  The matrix compares the product market share and market growth. A market share represents the revenue of the product in the market. The market growth represents the growth of the product in the market. Sometimes a product has more share but less growth and vice versa in that case what can be done can be given by this matrix and many companies follow this to take a decision. It consists of four categories they are: Dogs, Cash cows, Question marks (problem children), Stars. <br>
-+	Dogs describes the product which have low market growth and low market share. These products are basically requiring more amount and the profit is less. <br>
-+	Cash cows are about the product which are having high market share and low market growth. These products produce more amount of money and there are fewer chances to increase the market. So the companies need to utilize this opportunity and if there is possibility market growth also need to be increased. <br>
-+	Question marks (problem children) is the products with high market growth and low market share in which the decision need to be taken carefully whether to invest into it or not so that the product may have a chance to become star or cash cows. Also, there is a chance to become dogs so the decision is the important criteria here. <br>
-+	Stars is the product with high market growth and high market share as these products are at the high range and this need to maintained and after some years it may become cash cow or dogs where the more need of investment is unnecessary. <br>
+      +	Dogs describes the product which have low market growth and low market share. These products are basically requiring more amount and the profit is less. <br>
+      +	Cash cows are about the product which are having high market share and low market growth. These products produce more amount of money and there are fewer chances to increase the market. So the companies need to utilize this opportunity and if there is possibility market growth also need to be increased. <br>
+      +	Question marks (problem children) is the products with high market growth and low market share in which the decision need to be taken carefully whether to invest into it or not so that the product may have a chance to become star or cash cows. Also, there is a chance to become dogs so the decision is the important criteria here. <br>
+      +	Stars is the product with high market growth and high market share as these products are at the high range and this need to maintained and after some years it may become cash cow or dogs where the more need of investment is unnecessary. <br>
 The main motive of above categories is that companies can decide whether to invest, maintain or drop the product [REF 1]. <br>
 
 2. Architecture provides a model which can be used to demonstrate to customers and developers regarding the product and it improves the common communication. The requirements act as the design goals, so based on the goals the design of architecture is done. The goal consists of both functional and non-functional requirements. Designing architecture from requirements can be done through different methods. Pattern based architecture design consists of two levels, they are architecture styles and design patterns. Multiple view model encourages to have a different view in a system for different aspects. Evaluation and transformation based design in which first priority is for functional requirements and then non-functional requirements are considered in an iterative manner [REF 2]. Also, there are other techniques used as per the suitability for requirements and architecture. <br>
